@@ -22,3 +22,5 @@ and ID, and lastly category info such as category name and ID.
 ## Tutorial
 
 [Tutroial](https://drive.google.com/file/d/1apBJMCOCaNzgWjqiyOeINtux88T0pHqN/view?usp=sharing)
+
+** Note: file was to large so couldn't have the file embeded. click link to view tutorial **
