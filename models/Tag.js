@@ -25,4 +25,5 @@ Tag.init(
   }
 );
 
+console.log('tag created');
 module.exports = Tag;
