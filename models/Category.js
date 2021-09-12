@@ -26,5 +26,4 @@ Category.init(
   }
 );
 
-console.log('category created');
 module.exports = Category;

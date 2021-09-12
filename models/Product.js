@@ -38,7 +38,7 @@ Product.init(
     category_id: {
       type: DataTypes.INTEGER,
       references: {
-        model: Category,
+        model: 'category',
         key: 'id'
       }
     }
@@ -52,5 +52,4 @@ Product.init(
   }
 );
 
-console.log('product created');
 module.exports = Product;
